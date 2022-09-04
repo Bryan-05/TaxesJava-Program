@@ -1,0 +1,6 @@
+Household 1:
+AGI: $20,523
+Deduction: $12,000
+Taxable income: $8,523
+Federal tax: $852
+Tax due: $452
