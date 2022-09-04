@@ -6,10 +6,6 @@
 *  assignment: Program 4
 *  date last modified: 09/02/2022
 *  
-*  purpose: This program calculates income tax by getting input from a file
-*           containing wages, taxable interest, unemployment compensation,
-*           status, and taxes withheld. It prints out the calculations on
-*           another file named "TaxOutput.txt" following a format.
 *  
 ****************************************************************/  
 
